@@ -1,0 +1,21 @@
+#box_1 {
+	position: relative;
+	width: 200px;
+	height: 200px;
+	background: #ee3e64;
+}
+/*Utilizando position relative y agregando 200px de la izquierda, nos damos cuenta como nuestro
+elemento (box_2) se mueve según lo indicado*/
+#box_2 {
+	position: relative;
+	left: 200px;
+	width: 200px;
+	height: 200px;
+	background: #44accf;
+}
+#box_3 {
+	position: relative;
+	width: 200px;
+	height: 200px;
+	background: #b7d84b;
+}
